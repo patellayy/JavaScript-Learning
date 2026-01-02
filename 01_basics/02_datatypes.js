@@ -1,4 +1,4 @@
-
+// JS IS DYNAMICALLY TYPED LANGUAGE , NO NEED TO DECLARE A VARIABLE, The type is decided at runtime and can change while the program runs. 
  // alert( 3 + 3) // we are using nodejs not browser so error avhe
  console.log( 3 +
     3) // avu ni karvanu spacing ne evu jovanu kem k readability matters
